@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact name="cat:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/cat_jar</output-path>
+    <root id="root">
+      <element id="archive" name="cat.jar">
+        <element id="module-output" name="cat" />
+      </element>
+      <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.8.3" />
+      <element id="library" level="project" name="Maven: json-20140107:json-20140107:1.0" />
+      <element id="library" level="project" name="Maven: httpcore:httpcore:4.4.3" />
+      <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+      <element id="library" level="project" name="Maven: httpasyncclient:httpasyncclient:4.1" />
+      <element id="library" level="project" name="Maven: httpclient:httpclient:4.5.1" />
+      <element id="library" level="project" name="Maven: org.mongodb:mongo-java-driver:3.0.4" />
+      <element id="library" level="project" name="Maven: httpcore-nio:httpcore-nio:4.4.3" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+    </root>
+  </artifact>
+</component>

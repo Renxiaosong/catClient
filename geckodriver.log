@@ -1,0 +1,788 @@
+1489981935982	geckodriver	INFO	Listening on 127.0.0.1:58463
+1489981938122	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.UgjFNIkaKMDj
+1489981938128	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489981938219	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58471
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489981941944	Marionette	INFO	Listening on port 58471
+1489981943349	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489981977991	Marionette	INFO	New connections will no longer be accepted
+[Child 11364] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 12272] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489989369976	geckodriver	INFO	Listening on 127.0.0.1:58098
+1489989372019	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.kEewnMF5mwKe
+1489989372025	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489989372047	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58111
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489989374211	Marionette	INFO	Listening on port 58111
+1489989375525	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489989411727	Marionette	INFO	New connections will no longer be accepted
+[Child 12044] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 1752] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489989477264	geckodriver	INFO	Listening on 127.0.0.1:58674
+1489989479284	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.jglLIESBDkCg
+1489989479290	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489989479301	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58687
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489989481336	Marionette	INFO	Listening on port 58687
+1489989482498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489989862804	geckodriver	INFO	Listening on 127.0.0.1:60166
+1489989864840	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.oHZl7lvifBSo
+1489989864845	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489989864857	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60182
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489989867144	Marionette	INFO	Listening on port 60182
+1489989868509	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489989893145	Marionette	INFO	New connections will no longer be accepted
+[Child 14328] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 14104] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489989893976	geckodriver	INFO	Listening on 127.0.0.1:60394
+1489989896012	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.dtLarftwu6lI
+1489989896019	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489989896030	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60408
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489989897862	Marionette	INFO	Listening on port 60408
+1489989899124	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489989920400	Marionette	INFO	New connections will no longer be accepted
+[Child 13520] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 12292] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489989921350	geckodriver	INFO	Listening on 127.0.0.1:60646
+1489989923403	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.DLCBc0U6iN5A
+1489989923409	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489989923421	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60663
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489989925535	Marionette	INFO	Listening on port 60663
+1489989926743	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489989964544	Marionette	INFO	New connections will no longer be accepted
+[Child 13940] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 6968] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489989965462	geckodriver	INFO	Listening on 127.0.0.1:61078
+1489989967491	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.f1yv2DIi45bf
+1489989967497	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489989967508	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61092
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489989969798	Marionette	INFO	Listening on port 61092
+1489989971175	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489990001242	Marionette	INFO	New connections will no longer be accepted
+[Child 9472] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 12140] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489990001910	geckodriver	INFO	Listening on 127.0.0.1:61333
+1489990003994	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.2vkVfI8JELYn
+1489990003998	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489990004010	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61348
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489990005562	Marionette	INFO	Listening on port 61348
+1489990006616	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489990037584	Marionette	INFO	New connections will no longer be accepted
+[Child 13176] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 4112] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489990038395	geckodriver	INFO	Listening on 127.0.0.1:61644
+1489990040442	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.18k8Ge4vBwrg
+1489990040481	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489990040494	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61657
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489990042342	Marionette	INFO	Listening on port 61657
+1489990043511	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489990063692	Marionette	INFO	New connections will no longer be accepted
+[Child 13668] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 14140] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1489990064523	geckodriver	INFO	Listening on 127.0.0.1:61889
+1489990066563	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.zcs6RJli1YL4
+1489990066604	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489990066629	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61901
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489990068393	Marionette	INFO	Listening on port 61901
+1489990069673	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489990097097	Marionette	INFO	New connections will no longer be accepted
+[Child 13392] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 8684] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489990097837	geckodriver	INFO	Listening on 127.0.0.1:62119
+1489990099882	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.MLe5EVMWVUJM
+1489990099925	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489990099934	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62131
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489990101287	Marionette	INFO	Listening on port 62131
+1489990102532	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489990163619	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1489990163649	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489990163651	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+odriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489990407176	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63399
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489990408597	Marionette	INFO	Listening on port 63399
+1489990409806	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489990470948	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1489990470961	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489990470963	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+odriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489990491493	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63694
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489990495160	Marionette	INFO	Listening on port 63694
+1489990496180	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489990557481	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1489990557521	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1489990557523	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1489992183900	geckodriver	INFO	Listening on 127.0.0.1:57071
+1489992185988	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.AOI2wplB9Iq3
+1489992186009	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489992186050	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57083
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489992188678	Marionette	INFO	Listening on port 57083
+1489992190673	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489992216098	Marionette	INFO	New connections will no longer be accepted
+[Child 9304] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 10056] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489992216703	geckodriver	INFO	Listening on 127.0.0.1:57333
+1489992218771	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.BUKlh0s0n7xz
+1489992218802	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489992218828	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57345
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489992220360	Marionette	INFO	Listening on port 57345
+1489992221833	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489992261087	Marionette	INFO	New connections will no longer be accepted
+[Child 2296] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 2296] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 13904] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489992261730	geckodriver	INFO	Listening on 127.0.0.1:57563
+1489992263760	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.knpf2WAm7XLr
+1489992263766	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489992263778	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57575
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489992265332	Marionette	INFO	Listening on port 57575
+1489992266368	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489992300070	Marionette	INFO	New connections will no longer be accepted
+[Child 9544] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 13224] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489992300754	geckodriver	INFO	Listening on 127.0.0.1:57817
+1489992302792	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.WvvMSQ8rYA4d
+1489992302820	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489992302830	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57827
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489992305109	Marionette	INFO	Listening on port 57827
+1489992306619	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489992331120	Marionette	INFO	New connections will no longer be accepted
+[Child 3776] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 7364] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489992332090	geckodriver	INFO	Listening on 127.0.0.1:58088
+1489992334140	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.JmztAqz2hkqG
+1489992334145	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489992334158	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58101
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489992335645	Marionette	INFO	Listening on port 58101
+1489992336828	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489992366081	Marionette	INFO	New connections will no longer be accepted
+[Child 9976] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 13508] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489992366795	geckodriver	INFO	Listening on 127.0.0.1:58276
+1489992368829	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.49HmMiJeIA2j
+1489992368846	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489992368857	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58288
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489992370384	Marionette	INFO	Listening on port 58288
+1489992372051	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489992402708	Marionette	INFO	New connections will no longer be accepted
+[Child 244] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 14496] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489992403391	geckodriver	INFO	Listening on 127.0.0.1:58551
+1489992405454	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.hApx9tK2M7mS
+1489992405489	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489992405499	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58563
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489992407639	Marionette	INFO	Listening on port 58563
+1489992409171	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489992455942	Marionette	INFO	New connections will no longer be accepted
+[Child 4564] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 13284] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489992456688	geckodriver	INFO	Listening on 127.0.0.1:58913
+1489992458745	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.1uQHiSAYm6ty
+1489992458751	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489992458788	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58928
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489992460352	Marionette	INFO	Listening on port 58928
+1489992461524	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489992529724	Marionette	INFO	New connections will no longer be accepted
+[Child 9268] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 13344] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489992530393	geckodriver	INFO	Listening on 127.0.0.1:59430
+1489992532428	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.QWlpKZxhhfhU
+1489992532448	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489992532458	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59446
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489992534331	Marionette	INFO	Listening on port 59446
+1489992535334	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489992582624	Marionette	INFO	New connections will no longer be accepted
+[Child 14492] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 14028] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489992583294	geckodriver	INFO	Listening on 127.0.0.1:59776
+1489992585369	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.c2RdgM9SEZKl
+1489992585373	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489992585383	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59789
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489992587435	Marionette	INFO	Listening on port 59789
+1489992588529	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489992624084	Marionette	INFO	New connections will no longer be accepted
+[Child 9992] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 4116] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489993282684	geckodriver	INFO	Listening on 127.0.0.1:61966
+1489993284765	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.DdwxvV2ldHTy
+1489993284792	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489993284802	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61979
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489993286263	Marionette	INFO	Listening on port 61979
+1489993287350	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+JavaScript error: http://static.iqiyi.com/js/lib/sea1.2.js, line 8: TypeError: b is undefined
+1489993321117	Marionette	INFO	New connections will no longer be accepted
+[Child 11192] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 6028] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489993321733	geckodriver	INFO	Listening on 127.0.0.1:62621
+1489993323766	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.AoLCVIAcsobi
+1489993323816	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489993323827	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62635
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996078271	geckodriver	INFO	Listening on 127.0.0.1:55239
+1489996080503	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.NVGz2wJMt7U4
+1489996080507	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996080583	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55257
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996083178	Marionette	INFO	Listening on port 55257
+1489996084431	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996108143	Marionette	INFO	New connections will no longer be accepted
+[Child 10528] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 10528] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 1072] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996108849	geckodriver	INFO	Listening on 127.0.0.1:55508
+1489996110951	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.LpVT81LNzKW6
+1489996110958	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996110971	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55521
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996113239	Marionette	INFO	Listening on port 55521
+1489996114716	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996135047	Marionette	INFO	New connections will no longer be accepted
+[Child 6668] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 10532] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996135830	geckodriver	INFO	Listening on 127.0.0.1:55704
+1489996137863	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.MLWl5BPuBelM
+1489996137895	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996137904	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55716
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996140043	Marionette	INFO	Listening on port 55716
+1489996141466	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996169117	Marionette	INFO	New connections will no longer be accepted
+[Child 11332] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 9100] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996169791	geckodriver	INFO	Listening on 127.0.0.1:56164
+1489996171853	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.jM5FoVn3F039
+1489996171900	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996171912	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56176
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996173358	Marionette	INFO	Listening on port 56176
+1489996174540	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489996211167	Marionette	INFO	New connections will no longer be accepted
+[Child 10544] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 7736] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996211717	geckodriver	INFO	Listening on 127.0.0.1:56530
+1489996213755	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.NkVumwndYKAK
+1489996213761	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996213772	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56542
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996215337	Marionette	INFO	Listening on port 56542
+1489996216565	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996238819	Marionette	INFO	New connections will no longer be accepted
+[Child 11960] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 12208] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996239492	geckodriver	INFO	Listening on 127.0.0.1:56807
+1489996241524	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.HANdquhjSGkY
+1489996241529	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996241540	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56822
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996242875	Marionette	INFO	Listening on port 56822
+1489996243868	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996266499	Marionette	INFO	New connections will no longer be accepted
+[Child 4464] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 11048] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996267119	geckodriver	INFO	Listening on 127.0.0.1:57035
+1489996269225	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.1GxZbRtHQ4E2
+1489996269229	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996269238	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57047
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996271251	Marionette	INFO	Listening on port 57047
+1489996272534	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489996301648	Marionette	INFO	New connections will no longer be accepted
+[Child 4500] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 9112] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996302202	geckodriver	INFO	Listening on 127.0.0.1:57288
+1489996304327	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.yASbxEHZjfUn
+1489996304331	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996304340	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57302
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996305800	Marionette	INFO	Listening on port 57302
+1489996307076	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489996339536	Marionette	INFO	New connections will no longer be accepted
+[Child 1072] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 1072] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x920018,name=PLayerTransaction::Msg_ForceComposite) Channel error: cannot send/recv
+
+[NPAPI 4008] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996340108	geckodriver	INFO	Listening on 127.0.0.1:57553
+1489996342216	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.pskgW4qQfiGH
+1489996342221	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996342231	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57566
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996343586	Marionette	INFO	Listening on port 57566
+1489996344830	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996366972	Marionette	INFO	New connections will no longer be accepted
+[Child 6956] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 7000] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996367528	geckodriver	INFO	Listening on 127.0.0.1:57784
+1489996369629	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.XjfZzPnaUn0w
+1489996369634	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996369644	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57797
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996371064	Marionette	INFO	Listening on port 57797
+1489996372357	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996392135	Marionette	INFO	New connections will no longer be accepted
+[Child 372] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 2384] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996610721	geckodriver	INFO	Listening on 127.0.0.1:58769
+1489996612748	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.PK4wyVs6BQOt
+1489996612770	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996612790	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58783
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996614201	Marionette	INFO	Listening on port 58783
+1489996615254	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996634413	Marionette	INFO	New connections will no longer be accepted
+[Child 9448] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 6884] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996635067	geckodriver	INFO	Listening on 127.0.0.1:59045
+1489996637146	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.TYiYDXwevlmW
+1489996637151	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996637161	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59057
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996638441	Marionette	INFO	Listening on port 59057
+1489996639488	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996665046	Marionette	INFO	New connections will no longer be accepted
+[Child 3568] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 4528] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996665633	geckodriver	INFO	Listening on 127.0.0.1:59315
+1489996667727	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.820WH53QJf8z
+1489996667733	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996667744	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59329
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996669002	Marionette	INFO	Listening on port 59329
+1489996669962	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996705036	Marionette	INFO	New connections will no longer be accepted
+[Child 10716] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 4280] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996705617	geckodriver	INFO	Listening on 127.0.0.1:59653
+1489996707692	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.BKdiXHCMGvjj
+1489996707697	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996707708	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59666
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996709367	Marionette	INFO	Listening on port 59666
+1489996710767	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996736705	Marionette	INFO	New connections will no longer be accepted
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 10724] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x920018,name=PLayerTransaction::Msg_ForceComposite) Channel error: cannot send/recv
+
+[NPAPI 9064] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996737386	geckodriver	INFO	Listening on 127.0.0.1:59960
+1489996739421	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.4LYCCmNPAf2d
+1489996739427	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996739438	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59973
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996740863	Marionette	INFO	Listening on port 59973
+1489996741941	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489996766616	Marionette	INFO	New connections will no longer be accepted
+[Child 11564] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 7140] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996767263	geckodriver	INFO	Listening on 127.0.0.1:60183
+1489996769331	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.8QaV3htdhi1l
+1489996769335	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996769344	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60198
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996770663	Marionette	INFO	Listening on port 60198
+1489996771953	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996796800	Marionette	INFO	New connections will no longer be accepted
+[Child 11176] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 10960] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996797403	geckodriver	INFO	Listening on 127.0.0.1:60467
+1489996799457	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.vtsfr2EtMLEJ
+1489996799462	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996799472	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60481
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996800866	Marionette	INFO	Listening on port 60481
+1489996802183	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996829460	Marionette	INFO	New connections will no longer be accepted
+[Child 4500] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 4500] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 1724] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996830128	geckodriver	INFO	Listening on 127.0.0.1:60803
+1489996832245	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.AXuvmkDxeaC6
+1489996832263	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996832274	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60815
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996833636	Marionette	INFO	Listening on port 60815
+1489996834780	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+1489996859573	Marionette	INFO	New connections will no longer be accepted
+[Child 3772] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 4508] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996860145	geckodriver	INFO	Listening on 127.0.0.1:61066
+1489996862231	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.EQrgUVZlbDDG
+1489996862296	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996862310	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61081
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996863631	Marionette	INFO	Listening on port 61081
+1489996864814	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996891229	Marionette	INFO	New connections will no longer be accepted
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 6244] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x920018,name=PLayerTransaction::Msg_ForceComposite) Channel error: cannot send/recv
+
+[NPAPI 6300] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489996891824	geckodriver	INFO	Listening on 127.0.0.1:61329
+1489996893897	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.yuLvMpM3VmRr
+1489996893902	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489996893912	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61342
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489996895244	Marionette	INFO	Listening on port 61342
+1489996896269	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://www.iqiyi.com/v_19rrarxyzg.html, line 3861: TypeError: _jdAd is null
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170317180806/jobs/pc/playSourceVideo.js, line 203: TypeError: U is not a function
+1489996946254	Marionette	INFO	New connections will no longer be accepted
+[Child 5828] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 5416] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1489999164556	geckodriver	INFO	Listening on 127.0.0.1:55084
+1489999166633	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.nBRnscv5Jo1N
+1489999166638	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1489999166648	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55100
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489999168750	Marionette	INFO	Listening on port 55100
+1489999170113	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+1490151292317	geckodriver	INFO	Listening on 127.0.0.1:54263
+1490151294582	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.zEL49dFGP5Ww
+1490151294605	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490151294696	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54281
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1490151301559	Marionette	INFO	Listening on port 54281
+1490151304535	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+1490151350484	Marionette	INFO	New connections will no longer be accepted
+[Child 16312] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 11076] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1490151351570	geckodriver	INFO	Listening on 127.0.0.1:54577
+1490151353618	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.aAv0VxaI75Or
+1490151353622	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490151353634	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54590
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1490151355719	Marionette	INFO	Listening on port 54590
+1490151357245	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1490151420980	geckodriver	INFO	Listening on 127.0.0.1:54971
+1490151423049	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.dsSjCcZFlPUF
+1490151423056	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490151423076	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54983
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1490151425115	Marionette	INFO	Listening on port 54983
+1490151426581	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+1490151686028	geckodriver	INFO	Listening on 127.0.0.1:56075
+1490151688059	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.5j5TogvjuLrO
+1490151688065	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490151688079	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56087
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1490151689525	Marionette	INFO	Listening on port 56087
+1490151690657	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+1490153006581	geckodriver	INFO	Listening on 127.0.0.1:60612
+1490153008624	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.tBT1YkTK7rNy
+1490153008628	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490153008643	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60626
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1490153010537	Marionette	INFO	Listening on port 60626
+1490153011856	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+1490153037287	Marionette	INFO	New connections will no longer be accepted
+[Child 11176] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 11176] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 1232] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1490153039072	geckodriver	INFO	Listening on 127.0.0.1:60861
+1490153041104	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.I9Y23sHAUoQ9
+1490153041108	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490153041119	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60875
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1490153042911	Marionette	INFO	Listening on port 60875
+1490153043967	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+[Child 11812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 11812] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1490153075307	geckodriver	INFO	Listening on 127.0.0.1:61073
+1490153077338	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.j6t9uvUiTJFO
+1490153077342	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490153077386	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61085
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1490153079712	Marionette	INFO	Listening on port 61085
+1490153080716	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170320180909/jobs/pc/playSourceVideo.js, line 203: TypeError: V is not a function
+1490153121427	Marionette	INFO	New connections will no longer be accepted
+[Child 13504] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 456] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1490153122211	geckodriver	INFO	Listening on 127.0.0.1:61407
+1490153124263	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.hZeU5tWCLO3A
+1490153124269	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490153124283	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61419
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1490153125881	Marionette	INFO	Listening on port 61419
+1490153127176	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170320180909/jobs/pc/playSourceVideo.js, line 203: TypeError: V is not a function
+1490153167328	Marionette	INFO	New connections will no longer be accepted
+[Child 13552] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 7960] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1490153168112	geckodriver	INFO	Listening on 127.0.0.1:61711
+1490153170149	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.oteI1m7dDuLl
+1490153170152	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490153170163	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61726
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1490153171712	Marionette	INFO	Listening on port 61726
+1490153172826	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: http://static.iqiyi.com/js/qiyiV2/20170320180909/jobs/pc/playSourceVideo.js, line 203: TypeError: V is not a function
+[Child 3732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1490154229463	geckodriver	INFO	Listening on 127.0.0.1:50080
+1490154231513	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.3sFCmeopB33D
+1490154231536	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490154231574	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50097
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1490154234370	Marionette	INFO	Listening on port 50097
+1490154235812	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+JavaScript warning: http://js.ykimg.com/youku/dist/js/page/find/play/comment_16.js, line 7: unreachable code after return statement
+[NPAPI 14308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1490168253836	geckodriver	INFO	Listening on 127.0.0.1:54609
+1490168256939	geckodriver	INFO	Listening on 127.0.0.1:54631
+1490168259371	geckodriver	INFO	Listening on 127.0.0.1:54651
+1490168261767	geckodriver	INFO	Listening on 127.0.0.1:54671
+1490168264207	geckodriver	INFO	Listening on 127.0.0.1:54688
+1490168266624	geckodriver	INFO	Listening on 127.0.0.1:54703
+1490168269056	geckodriver	INFO	Listening on 127.0.0.1:54721
+1490168271497	geckodriver	INFO	Listening on 127.0.0.1:54736
+1490168273907	geckodriver	INFO	Listening on 127.0.0.1:54755
+1490168276331	geckodriver	INFO	Listening on 127.0.0.1:54773
+1490237767806	geckodriver	INFO	Listening on 127.0.0.1:64860
+1490237770010	mozprofile::profile	INFO	Using profile path C:\Users\Admin\AppData\Local\Temp\rust_mozprofile.if9AnIJETm4v
+1490237770075	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1490237770316	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64871
